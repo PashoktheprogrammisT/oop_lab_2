@@ -1,1 +1,1 @@
-# oop_lab_2
+# Object-Oriented Programming Попов Павел Андреевич М80-209БВ-24
